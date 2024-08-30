@@ -1,0 +1,13 @@
+sejarah-prosesor/
+│
+├── docs/
+│   ├── intro.md
+│   ├── 1970s.md
+│   ├── 1980s.md
+│   ├── 1990s.md
+│   └── 2000s.md
+│
+├── images/
+│
+├── README.md
+└── LICENSE
